@@ -1,0 +1,83 @@
+2024-10-03 20:13:13,353 - ----------%Script Executed%----------
+2024-10-03 20:05:54,426 - ----------%Script Executed%----------
+2024-10-02 20:56:22,090 - Refreshing access_token
+2024-10-02 20:56:22,084 - Attempting refresh to obtain initial access_token
+2024-10-02 20:55:37,974 - Refreshing access_token
+2024-10-02 20:55:37,971 - Attempting refresh to obtain initial access_token
+2024-10-02 20:54:32,625 - ----------%Script Executed%----------
+2024-10-02 20:50:54,261 - ----------%Script Executed%----------
+2024-10-02 20:48:35,734 - ----------%Script Executed%----------
+2024-10-02 20:47:43,366 - ----------%Script Executed%----------
+2024-10-02 20:47:16,242 - ----------%Script Executed%----------
+2024-10-02 20:46:29,186 - Refreshing access_token
+2024-10-02 20:46:29,184 - Attempting refresh to obtain initial access_token
+2024-10-02 20:45:19,863 - Refreshing access_token
+2024-10-02 20:45:19,859 - Attempting refresh to obtain initial access_token
+2024-10-02 20:44:28,728 - Refreshing access_token
+2024-10-02 20:44:28,727 - Attempting refresh to obtain initial access_token
+2024-10-02 20:41:27,120 - ----------%Script Executed%----------
+2024-10-02 20:26:09,910 - Refreshing access_token
+2024-10-02 20:26:09,908 - Attempting refresh to obtain initial access_token
+2024-10-02 20:14:48,034 - ----------%Script Executed%----------
+2024-10-02 20:13:33,183 - ----------%Script Executed%----------
+2024-10-02 20:08:01,564 - ----------%Script Executed%----------
+2024-10-02 19:43:20,291 - Refreshing access_token
+2024-10-02 19:43:20,290 - Attempting refresh to obtain initial access_token
+2024-10-02 19:40:09,467 - ----------%Script Executed%----------
+2024-10-02 19:32:59,506 - Refreshing access_token
+2024-10-02 19:32:59,505 - Attempting refresh to obtain initial access_token
+2024-10-02 19:32:29,552 - ----------%Script Executed%----------
+2024-10-02 19:16:48,834 - ----------%Script Executed%----------
+2024-10-02 19:00:00,048 - Refreshing access_token
+2024-10-02 19:00:00,046 - Attempting refresh to obtain initial access_token
+2024-10-02 18:21:33,192 - ----------%Script Executed%----------
+2024-10-02 18:18:24,251 - ----------%Script Executed%----------
+2024-10-02 17:15:28,958 - ----------%Script Executed%----------
+2024-10-02 16:57:18,873 - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2024-10-02 16:57:07,651 - Refreshing access_token
+2024-10-02 16:57:07,649 - Attempting refresh to obtain initial access_token
+2024-10-02 16:55:41,622 - ----------%Script Executed%----------
+2024-10-02 05:47:25,021 - ----------%Script Executed%----------
+2024-10-02 05:44:18,911 - Refreshing access_token
+2024-10-02 05:44:18,907 - Attempting refresh to obtain initial access_token
+2024-10-02 05:44:02,395 - ----------%Script Executed%----------
+2024-10-02 05:47:42,604 - Attempting refresh to obtain initial access_token
+2024-10-02 05:47:42,607 - Refreshing access_token
+2024-10-02 16:51:54,082 - ----------%Script Executed%----------
+2024-10-02 16:56:53,650 - ----------%Script Executed%----------
+2024-10-02 17:15:52,367 - Attempting refresh to obtain initial access_token
+2024-10-02 17:15:52,368 - Refreshing access_token
+2024-10-02 18:17:51,855 - ----------%Script Executed%----------
+2024-10-02 18:19:03,242 - ----------%Script Executed%----------
+2024-10-02 18:59:45,887 - ----------%Script Executed%----------
+2024-10-02 19:17:03,940 - Attempting refresh to obtain initial access_token
+2024-10-02 19:17:03,942 - Refreshing access_token
+2024-10-02 19:18:28,117 - Attempting refresh to obtain initial access_token
+2024-10-02 19:18:28,118 - Refreshing access_token
+2024-10-02 19:19:49,469 - Attempting refresh to obtain initial access_token
+2024-10-02 19:19:49,470 - Refreshing access_token
+2024-10-02 19:21:39,932 - Attempting refresh to obtain initial access_token
+2024-10-02 19:21:39,934 - Refreshing access_token
+2024-10-02 19:23:46,978 - Attempting refresh to obtain initial access_token
+2024-10-02 19:23:46,981 - Refreshing access_token
+2024-10-02 19:32:11,765 - ----------%Script Executed%----------
+2024-10-02 19:32:43,679 - ----------%Script Executed%----------
+2024-10-02 19:40:25,564 - Attempting refresh to obtain initial access_token
+2024-10-02 19:40:25,565 - Refreshing access_token
+2024-10-02 19:43:05,711 - ----------%Script Executed%----------
+2024-10-02 20:08:27,491 - ----------%Script Executed%----------
+2024-10-02 20:14:01,667 - ----------%Script Executed%----------
+2024-10-02 20:25:52,909 - ----------%Script Executed%----------
+2024-10-02 20:41:46,957 - Attempting refresh to obtain initial access_token
+2024-10-02 20:41:46,962 - Refreshing access_token
+2024-10-02 20:42:35,943 - Attempting refresh to obtain initial access_token
+2024-10-02 20:42:35,945 - Refreshing access_token
+2024-10-02 20:44:13,442 - ----------%Script Executed%----------
+2024-10-02 20:47:30,738 - ----------%Script Executed%----------
+2024-10-02 20:48:08,815 - ----------%Script Executed%----------
+2024-10-02 20:50:12,374 - ----------%Script Executed%----------
+2024-10-02 20:54:16,939 - ----------%Script Executed%----------
+2024-10-02 20:55:21,581 - ----------%Script Executed%----------
+2024-10-03 20:12:34,772 - ----------%Script Executed%----------
+2024-10-03 20:14:00,046 - Attempting refresh to obtain initial access_token
+2024-10-03 20:14:00,049 - Refreshing access_token
